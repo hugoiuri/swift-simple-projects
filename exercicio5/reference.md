@@ -1,0 +1,3 @@
+- Link para o exercicio 5: [https://github.com/hugoiuri/SwiftTaskItem/tree/addingItem](https://github.com/hugoiuri/SwiftTaskItem/tree/addingItem)
+- Link para o exercicio 5.1: [https://github.com/hugoiuri/SwiftTaskItem/tree/concludeItem](https://github.com/hugoiuri/SwiftTaskItem/tree/concludeItem)
+- Link para o exercicio 5.2: [https://github.com/hugoiuri/swiftCalc](https://github.com/hugoiuri/SwiftTaskItem)
